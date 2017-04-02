@@ -1,0 +1,22 @@
+{
+  "name": "hapi-waterhole",
+  "version": "1.0.0",
+  "description": "gathering point to connect waterline models to rest endpoints via hapi",
+  "repository": "git://github.com/bitterulf/hapi-waterhole",
+  "main": "lib/index.js",
+  "keywords": [
+    "waterline",
+    "dogwater",
+    "hapi"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dogwater": "^2.3.0",
+    "lodash": "^4.17.4",
+    "waterline": "^0.11.11"
+  }
+}
